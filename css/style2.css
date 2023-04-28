@@ -24,7 +24,7 @@ input {
     font-style: italic !important;
 }
 
-::placeholder, h2, span, button{
+::placeholder, h2, span, button, .home{
     color: #F3F0F0CC !important;
 }
 
